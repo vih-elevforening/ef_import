@@ -34,3 +34,7 @@ Verify what the delimiter is (the character that separates the fields). Best wit
 - Choose "Student Import CSV"
 - Choose the file you wish to upload.
 - Click "Import"
+
+### Verify that users are in the group
+
+- Check that all the users has been approved, by navigating to https://elevforeningen.vih.dk/group/node/[GROUP_NUMBER]/admin/
