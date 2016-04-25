@@ -21,6 +21,7 @@ Verify that the structure is as this:
 - ADDRESS
 - POSTAL
 - CITY
+- COUNTRY (with the country code - DK = Denmark, DE = Germany, IS = Island, GL = Grønland)
 - PHONE
 - MAIL
 - GROUP (the id of the group you want people imported into - you need to manually create that column and fill it in with the **`GROUP_NUMBER`**)
